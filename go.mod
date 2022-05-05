@@ -1,4 +1,4 @@
-module github.com/go-errors/errors
+module github.com/mshaeon/errors2
 
 go 1.14
 
